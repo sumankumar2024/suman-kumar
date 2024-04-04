@@ -1,4 +1,5 @@
 # suman-kumar
-This is my first git repository.
+
+Author- SumanKumar
 <br>
-Author- Suman
+This is my first git repository.
